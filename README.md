@@ -49,12 +49,6 @@ To get started with the AI Chatbot Framework, follow these steps:
    - Run the Flask application: `python chatbot_app.py`.
    - Open your web browser and go to `http://localhost:5000` to interact with the chatbot.
 
-4. **Train or Customize the Chatbot (Optional):**
-   - Modify `intents.json` to add new intents or customize existing ones.
-   - Train the chatbot model using `python main.py`.
-
-5. **Deploy (Optional):**
-   - Deploy the web application to a server for public access.
 
 ## License
 
