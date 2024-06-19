@@ -1,0 +1,15 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi", "Hello", "How are you?"],
+        "responses": ["Hello!", "Hi there!", "Greetings!"]
+      },
+      {
+        "tag": "math",
+        "patterns": ["Teach me math", "How to solve equations?"],
+        "responses": ["Sure! Let's start with the basics of algebra."]
+      }
+    ]
+  }
+  
